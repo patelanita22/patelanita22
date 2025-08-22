@@ -1,6 +1,7 @@
 ## Hello Friends 👋
 About Me
-👩‍💻 I’m Anita Raut, an aspiring **DevOps & Cloud Engineer** from 🇮🇳 India.  
+
+👩‍💻 I’m Anita Raut, an aspiring **DevOps & Cloud Engineer**. 
 🌱 Currently learning **Linux, Git/GitHub, Docker, Jenkins, Terraform, and AWS**.  
 🔭 Exploring **Cloud Engineering & DevOps projects** step by step.  
 👯 Open to collaborate on beginner-friendly DevOps projects.  
