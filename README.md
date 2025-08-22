@@ -1,4 +1,5 @@
-## Hello Friends 👋
+## Hi there 👋 
+
 About Me
 
 👩‍💻 I’m Anita Raut, an aspiring **DevOps & Cloud Engineer**. 
