@@ -1,16 +1,19 @@
 ## Hello Friends 👋
+About Me
+👩‍💻 I’m Anita Raut, an aspiring **DevOps & Cloud Engineer** from 🇮🇳 India.  
+🌱 Currently learning **Linux, Git/GitHub, Docker, Jenkins, Terraform, and AWS**.  
+🔭 Exploring **Cloud Engineering & DevOps projects** step by step.  
+👯 Open to collaborate on beginner-friendly DevOps projects.  
+💬 Ask me about Linux basics, Git, and Cloud learning journey.  
+⚡ Fun fact: I enjoy sharing my learning progress with others. 
 
-<!--
-**patelanita22/patelanita22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack (Learning & Practicing) 
 
-Here are some ideas to get you started:
+**Cloud & DevOps Tools**  
+`Linux` `Git & GitHub` `Docker` `Jenkins` `Terraform` `AWS (Beginner)`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Scripting**  
+`Bash` `YAML` `Python (Basics)`  
+
+**Monitoring & Databases (Upcoming)**  
+`Prometheus` `Grafana` `MySQL` `MongoDB` 
